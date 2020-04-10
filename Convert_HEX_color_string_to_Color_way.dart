@@ -1,5 +1,5 @@
-# Convert-HEX-color-string-to-Color-way
-Flutter/Dart: Convert HEX color string to Color way
+// Convert-HEX-color-string-to-Color-way
+//Flutter/Dart: Convert HEX color string to Color way
 
 
 class HaxColorHelpers {
